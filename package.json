@@ -1,0 +1,32 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.6.4",
+        "laravel-datatables-vite": "^0.5.2",
+        "laravel-vite-plugin": "^1.0.0",
+        "sass-embedded": "^1.80.6",
+        "vite": "^5.4.11"
+    },
+    "dependencies": {
+        "@fancyapps/fancybox": "^3.5.7",
+        "@popperjs/core": "^2.11.8",
+<<<<<<< HEAD
+        "bootstrap": "^4.6.2",
+        "jquery": "^3.7.1",
+        "laravel-echo": "^1.17.1",
+        "popper": "^1.0.1",
+        "pusher-js": "^8.4.0-rc2"
+=======
+        "bower-npm-resolver": "^0.11.0",
+        "chart.js": "^4.4.7",
+        "flatpickr": "^4.6.13",
+        "jquery": "^3.7.1",
+        "popper": "^1.0.1"
+>>>>>>> ca283f8f4cde8eff392b4659c95fe6516e2afd10
+    }
+}
